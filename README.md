@@ -6,6 +6,6 @@ The [Concepts Chart](Concepts.pdf) has each Concept, their sub-concepts, and wha
 
 The [Skills](Skills.pdf) table shows all the skills, grouped by General/Advanced.
 
-The [CoriolisQuickstart.pdf](Quickstart Guide) is the basic rules. These are available from free from the Free League website, but I thought I'd put them here for convenience. You don't have to read this, but obviously you can if you want.
+The [Quickstart Guide](CoriolisQuickstart.pdf) is the basic rules. These are available from free from the Free League website, but I thought I'd put them here for convenience. You don't have to read this, but obviously you can if you want.
 
 Here is a [Character Sheet](CharacterSheet.pdf) if you'd like to look at one.
