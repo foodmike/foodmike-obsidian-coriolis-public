@@ -5,3 +5,5 @@ This respository of files contains basic info to get going in Coriolis. You shou
 The [Concepts Chart](Concepts.pdf) has each Concept, their sub-concepts, and what each one's key skills are. This gives you an idea of the primary capabilities of each Concept.
 
 The [Skills](Skills.pdf) table shows all the skills, grouped by General/Advanced.
+
+The [CoriolisQuickstart.pdf](Quickstart Guide) is the basic rules. These are available from free from the Free League website, but I thought I'd put them here for convenience. You don't have to read this, but obviously you can if you want.
